@@ -5,8 +5,13 @@
     "en-US" : "",
     "es-ES" : "Plantilla basada en las guías de diseño de Material Design"
   },
+<<<<<<< Updated upstream
   "version": "1.1.0",
   "author": "King of App",
+=======
+  "version": "1.0.0",
+  
+>>>>>>> Stashed changes
   "category": [
     "material-design"
   ],
